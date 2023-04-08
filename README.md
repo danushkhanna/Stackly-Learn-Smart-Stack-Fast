@@ -51,10 +51,10 @@ To use Stackly, you need to have Python and Streamlit installed on your machine.
 # **Usage**
 Once you've set up the environment and installed the required packages, you can run Stackly by following these steps:
 
-Open PyCharm and open the project containing the bot code.
-Make sure you are in the environment you created earlier (i.e., Stackly).
-Open a terminal in PyCharm and navigate to the directory where you've saved the bot code.
-Run the command:
+- Open PyCharm and open the project containing the bot code.
+- Make sure you are in the environment you created earlier (i.e., Stackly).
+- Open a terminal in PyCharm and navigate to the directory where you've saved the bot code.
+- Run the command:
 ```streamlit run FILENAME.py```
 (replace FILENAME with the name of the file containing the Stackly.py code).
 
@@ -67,8 +67,8 @@ Stackly uses course data from OSSU - Open Source Society University, which is a 
 
 Stackly was developed by a team of two members:
 
-Danush Khanna (danush.s.khanna@gmail.com)
-Sanyam Jain (sanyam0605@gmail.com)
+- Danush Khanna (danush.s.khanna@gmail.com)
+- Sanyam Jain (sanyam0605@gmail.com)
 
 We are passionate about computer science education and wanted to create a tool that would help people learn new technologies more easily. We hope that Stackly will be useful to anyone who wants to learn and grow their skills in the field of computer science.
 
