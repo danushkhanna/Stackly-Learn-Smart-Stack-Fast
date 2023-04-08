@@ -6,14 +6,7 @@ st.set_page_config(
     page_title="Stackly",
     page_icon=":books:",
     layout="wide",
-    initial_sidebar_state="expanded",
-    primaryColor="#F63366",
-    backgroundColor="#FFFFFF",
-    textColor="#262730",
-    font="monospace",
-    # Change this to "light" if you prefer a light theme
-    theme="dark"
-)
+    initial_sidebar_state="expanded")
 
 # Set page title
 st.title("Stackly - Learn Smart, Stack Fast")
