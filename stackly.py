@@ -5,12 +5,6 @@ import pandas as pd
 
 st.set_page_config(page_title="Stackly", page_icon=":books:", layout="wide", initial_sidebar_state="expanded", theme="dark")
 
-[theme]
-primaryColor="#F63366"
-backgroundColor="#FFFFFF"
-textColor="#262730"
-font="monospace"
-
 # Page setup
 st.set_page_config(page_title="Stackly", page_icon="🐍", layout="wide")
 st.title("Stackly - Learn Smart, Stack Fast")
