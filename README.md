@@ -1,4 +1,4 @@
-# **Stackly - Learn Smart, Stack Fast**
+# **Stackly: Learn Smart, Stack Fast - Smart Search Engine for CS Mastery**
 
 <ins>https://stackly.streamlit.app/<ins/>
 
