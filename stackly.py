@@ -3,13 +3,17 @@ import pandas as pd
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
-st.set_page_config(page_title="Stackly", page_icon=":books:", layout="wide", initial_sidebar_state="expanded", theme="dark")
-
-[theme]
-primaryColor="#F63366"
-backgroundColor="#FFFFFF"
-textColor="#262730"
-font="monospace"
+st.set_page_config(
+    page_title="Stackly",
+    page_icon=":books:",
+    layout="wide",
+    initial_sidebar_state="expanded",
+    primaryColor="#F63366",
+    backgroundColor="#FFFFFF",
+    textColor="#262730",
+    font="monospace",
+    theme="dark"
+)
 
 # Page setup
 st.set_page_config(page_title="Stackly", page_icon="🐍", layout="wide")
