@@ -1,4 +1,7 @@
 # **Stackly - Learn Smart, Stack Fast**
+
+https://stackly.streamlit.app/
+
 Stackly is a search engine created for learning any computer science tech stack or domains. It is built using Streamlit, a popular Python library for creating web apps, and course data from OSSU - Open Source Society University. Stackly helps users to learn new technologies quickly and efficiently by providing a way to search for relevant online courses and resources.
 
 # **Features**
